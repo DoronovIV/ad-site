@@ -1,0 +1,11 @@
+{
+  "default": true,
+  "line-height": {
+    "line-length": 60,
+    "code_blocks": true,
+    "code_blocks_line_length": 60
+  },
+  "no-inline-html": {
+    "allowed_elements": ["u", "br", "li", "ol", "ul", "hr"]
+  }
+}

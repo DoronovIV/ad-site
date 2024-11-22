@@ -1,0 +1,15 @@
+# node
+**/node_modules/**
+**/dist/**
+**/.npm/**
+
+# ng
+**/.angular/**
+
+# vscode
+**/.vscode/**
+**/*.history/*
+
+# misc
+**/*.log/*
+**/*coverage/*
