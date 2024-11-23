@@ -5,6 +5,7 @@
     "code_blocks": true,
     "code_blocks_line_length": 60
   },
+  "first-line-h1": false,
   "no-inline-html": {
     "allowed_elements": ["u", "br", "li", "ol", "ul", "hr"]
   }
