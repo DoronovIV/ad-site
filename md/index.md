@@ -4,10 +4,10 @@ Since the __Reality__ release it has become really tedious for me to keep
 in memory all the gimmicks for each stage of the game loop.
 
 The [official wiki guide](https://antimatter-dimensions.fandom.com/wiki/Guide)
-has helped me a lot with the eternity phase, however
-when I tried to follow it on the reality one, I've found out that it's not
-as straightforward and I've progressed a while intuitively (which seldom
-happens).  
+has helped me a lot with the eternity phase.  
+However when I tried to follow it on the reality one,
+I've found out that it's not as straightforward and I've progressed
+a while intuitively (which seldom happens).  
 
 This article might be helpful for one who has complete the game at least
 once and generally knows what he's doing at each stage before at least
@@ -39,7 +39,7 @@ Initially, focus eternity count to get all the milestones for automation.
 
 ### ECs
 
-Eternity challenges retain mainly with the completion order they impose.
+Eternity challenges retain mainly with the completion order they impose.  
 Most of them have a specific flow as well.
 
 ### The six-preset approach
@@ -47,11 +47,13 @@ Most of them have a specific flow as well.
 Having 6 presets total, we can make a table for the ECs as a second axis.
 
 There was an ai-generated md-table but I found it ugly so I've come up with
-a dictionary-like list. Here on the left side you can find challenge numbers,
+a dictionary-like list.  
+Here on the left side you can find challenge numbers,
 while on the right side - preset number.
 
 `Note` that EC11 requires two slightly different builds for full 5
-completions: first two or three with __Active__ and last couple with
+completions:  
+first two or three with __Active__ and last couple with
 __*Idle*__ paths.
 
 1     -  5  
@@ -104,22 +106,25 @@ intuitively I've split them into 4 categories:
 ### First bunch of perks
 
 Probably the most important thing about hitting the reality button
-is perks. I've started it two times at this point, and the ideal way
+is perks.  
+I've started it two times at this point, and the ideal way
 I see it is next:
 
 `Note:` Get `Existentially Prolong` (15 reality machines study)
-as soon as possible. It will allow you to skip manual C9, IC4 and IC5.
+as soon as possible.  
+It will allow you to skip manual C9, IC4 and IC5.
 __*This is the key quality of life improvement*__.
 
-Since first 5-10 realities are going to be slow, about 24hrs, you should
-rush for the `start each new reality with N ad/ip/ep` path.
+Since first 5-10 realities are going to be slow, about 24hrs,  
+you should rush for the `start each new reality with  
+N ad/ip/ep` path.
 
 Then, as realities become shorter and you are able to skip some parts,
 go straight up achievement one.
 
 ### First glyphs
 
-The objective is: __*keeping all 3/4/5 glyph slots filled at all time*__.
+The objective is: __*keeping all 3/4/5 glyph slots filled at all time*__.  
 Therefore, at fourth reality, save some RMs for the fourth glyph slot
 and make sure you unlock that upgrade.
 
