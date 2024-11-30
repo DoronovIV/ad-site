@@ -138,8 +138,7 @@ A huge topics. All the scripts will be compiled in
 
 ## Cel 1 - Teresa
 
-`TODO:` describe the main progression glyph sets as well as celestial
-reality GS and tactics.
+Check out [celestial 1 file for more info](./cel1/index.md).
 
 ## Cel 2 - Effarig (Giraffe :P)
 
