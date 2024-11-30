@@ -56,19 +56,19 @@ completions:
 first two or three with __Active__ and last couple with
 __*Idle*__ paths.
 
-1     -  5  
-2     -  6  
-3     -  7 (ad+pas)  
-4     -  4  
-5     -  6  
-6     -  6  
-7     -  1  
-8     -  4  
-9     -  6  
-10    -  1  
-11-A  -  1  
-11-P  -  2  
-12    -  3  
+`1 ㅤㅤ-ㅤ ㅤ5`  
+`2 ㅤㅤ-ㅤ ㅤ6`  
+`3 ㅤㅤ-ㅤ ㅤ7` (ad+pas)  
+`4ㅤㅤ -ㅤ ㅤ4`  
+`5 ㅤㅤ-ㅤ ㅤ6`  
+`6 ㅤㅤ-ㅤ ㅤ6`  
+`7 ㅤㅤ-ㅤ ㅤ1`  
+`8 ㅤㅤ-ㅤ ㅤ4`  
+`9 ㅤㅤ-ㅤ ㅤ6`  
+`10ㅤㅤ-ㅤ ㅤ1`  
+`11-Aㅤ-ㅤㅤ 1`  
+`11-Pㅤ-ㅤㅤ 2`  
+`12ㅤㅤ-ㅤ ㅤ3`  
 
 The list of presets can be found in [presets](presets.md) file.
 
